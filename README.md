@@ -1,1 +1,3 @@
 # PythonLibrary
+
+Knihovna na hovno
